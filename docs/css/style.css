@@ -1,0 +1,8 @@
+.plugin-text {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    display: block;
+}
